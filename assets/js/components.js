@@ -16,10 +16,10 @@ class ComponentManager {
     const navItems = [
       { href: 'index.html', label: 'Home' },
       { href: 'about.html', label: 'About' },
-      { href: 'contact.html', label: 'Contact' },
-      { href: 'meet-the-committee.html', label: 'Meet the Committee' },
+      { href: 'training-and-membership.html', label: 'Training & Membership' },
+      { href: 'committee.html', label: 'Committee' },
       { href: 'gallery.html', label: 'Gallery' },
-      { href: 'events-and-information.html', label: 'Events & Info' }
+      { href: 'contact.html', label: 'Contact' }
     ];
 
     const navHTML = navItems
