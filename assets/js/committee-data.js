@@ -41,13 +41,17 @@ window.committeeData = {
     },
     {
       name: 'Margaux Gauthier',
-      role: 'Public Officer & Web Manager',
+      role: 'Publicity Officer & Web Manager',
       image: 'images/committee/public_off.jpg'
     },
     {
       name: 'Lucita Chan',
       role: 'Alumni Officer',
       image: 'images/committee/web-manager.jpg'
-    }
+    },
+    {
+      name: 'Joshua Lee',
+      role: 'Child Protection Officer',
+      image: 'images/committee/web-manager.jpg'
   ]
 };
