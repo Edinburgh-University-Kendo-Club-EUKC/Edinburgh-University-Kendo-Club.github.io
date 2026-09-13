@@ -3,24 +3,24 @@
 window.committeeData = {
   executive: [
     {
-      name: 'Margaux Gauthier',
+      name: 'Faheemah Mamodebaccus',
       role: 'President',
       image: 'images/committee/president.jpg'
     },
     {
-      name: 'Ece Yarasik',
+      name: 'Karina Bliss',
       role: 'Secretary',
       image: 'images/committee/secretary.jpg'
     },
     {
-      name: 'Laksika Intarachote',
+      name: 'Anna Roberts',
       role: 'Treasurer',
       image: 'images/committee/treasurer.jpg'
     }
   ],
   general: [
     {
-      name: 'Innes Pruden',
+      name: 'Kian Sullivan',
       role: 'Captain',
       image: 'images/committee/captain.jpg'
     },
@@ -30,23 +30,23 @@ window.committeeData = {
       image: 'images/committee/vice_captain.jpg'
     },
     {
-      name: 'Kian Sullivan',
+      name: 'Xavier Chung',
       role: 'Armourer',
       image: 'images/committee/armourer.jpg'
     },
     {
-      name: 'Lucita Chan',
+      name: 'Leon Jackson',
       role: 'Social Secretary',
       image: 'images/committee/social_sec.jpg'
     },
     {
-      name: 'Faheemah Mamodebaccus',
-      role: 'Public Officer',
+      name: 'Margaux Gauthier',
+      role: 'Public Officer & Web Manager',
       image: 'images/committee/public_off.jpg'
     },
     {
-      name: 'Vasu Verma',
-      role: 'Web Manager',
+      name: 'Lucita Chan',
+      role: 'Alumni Officer',
       image: 'images/committee/web-manager.jpg'
     }
   ]
