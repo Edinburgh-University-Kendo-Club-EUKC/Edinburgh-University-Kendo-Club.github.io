@@ -6,7 +6,7 @@ function buildCommitteeCard(member, extraClassName) {
   return `
     <article class="${cardClassName}">
       <div class="card-image-wrapper">
-        <img src="${member.image}" alt="${member.name}, ${member.role}" class="committee-photo">
+        <img src="${member.image}" alt="${member.name}, ${member.role}" class="committee-photo" onerror="this.onerror = null; this.src = 'images/committee/place_holder.jpeg';">
       </div>
       <div class="card-content">
         <h3 class="member-name">${member.name}</h3>
