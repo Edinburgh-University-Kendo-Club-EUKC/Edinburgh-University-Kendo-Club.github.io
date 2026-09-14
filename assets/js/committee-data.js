@@ -47,11 +47,12 @@ window.committeeData = {
     {
       name: 'Lucita Chan',
       role: 'Alumni Officer',
-      image: 'images/committee/web-manager.jpg'
+      image: 'images/committee/alumni_off.jpg'
     },
     {
       name: 'Joshua Lee',
       role: 'Child Protection Officer',
-      image: 'images/committee/web-manager.jpg'
+      image: 'images/committee/child_protection.jpg'
+    }
   ]
 };
